@@ -1,0 +1,23 @@
+{
+  "name": "react-redux-isomorphic-app",
+  "version": "1.0.0",
+  "description": "boilerplate for an express.js react-redux app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^3.12.2",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.8.0"
+  },
+  "dependencies": {
+    "express": "^4.14.0",
+    "http-proxy": "^1.16.2",
+    "webpack": "^1.14.0"
+  }
+}
